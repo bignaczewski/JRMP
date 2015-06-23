@@ -1,4 +1,4 @@
-Atlassian Jira plugin for controlling project risks.
+Atlassian JIRA plugin for controlling project risks.
 
 JRMP - JIRA Risk Management Plugin
 
